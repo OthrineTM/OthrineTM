@@ -1,4 +1,4 @@
-<h2 align="center">Hi, I'm OthrineTM 👾</h2>
+<h2 align="center">Hi, I'm Othrine 👾</h2>
 <p align="center">Linux tinkerer · CachyOS + KDE Plasma · everything purple</p>
 
 <p align="center">
