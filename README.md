@@ -5,6 +5,7 @@
   <img src="https://img.shields.io/badge/CachyOS-8b5cf6?style=flat-square&logo=archlinux&logoColor=white" alt="CachyOS">
   <img src="https://img.shields.io/badge/KDE_Plasma_6-a855f7?style=flat-square&logo=kde&logoColor=white" alt="KDE Plasma 6">
   <img src="https://img.shields.io/badge/QML-c084fc?style=flat-square&logo=qt&logoColor=white" alt="QML">
+  <img src="https://img.shields.io/badge/Python-d8b4fe?style=flat-square&logo=python&logoColor=white" alt="Python">
 </p>
 
 ### 🔮 Projects
@@ -14,6 +15,7 @@
 | **Nyx Player** | Panel music player with a spinning vinyl cover and an Easy Effects preset switcher | [GitHub](https://github.com/OthrineTM/nyx-player) · [KDE Store](https://store.kde.org/p/2378511) |
 | **Nyx Control** | Control center: notifications, clipboard, system gauges, quick toggles, power profiles | [GitHub](https://github.com/OthrineTM/nyx-control) · [KDE Store](https://store.kde.org/p/2378514) |
 | **Nyx Clock** | Customizable desktop clock with weekday, date and weather | [GitHub](https://github.com/OthrineTM/nyx-clock) · [KDE Store](https://store.kde.org/p/2378515) |
+| **Pelta Control** | Linux control app for the ASUS ROG Pelta headset: battery tray, lighting, sidetone, mic, power (reverse-engineered HID protocol) | [GitHub](https://github.com/OthrineTM/pelta-control) |
 
 ### 🛠️ Open source contributions
 
