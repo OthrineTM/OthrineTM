@@ -19,4 +19,4 @@
 
 ### 🛠️ Open source contributions
 
-- **[OpenRGB](https://gitlab.com/CalcProgrammer1/OpenRGB)**: fixed the ISO keyboard LED mapping (Enter, Left Shift, ISO backslash) for Clevo / Tongfang laptops. [Merge request !3732](https://gitlab.com/CalcProgrammer1/OpenRGB/-/merge_requests/3732) · open
+- **[OpenRGB](https://gitlab.com/CalcProgrammer1/OpenRGB)**: added an "LED Map" setting for Clevo / Tongfang ITE 8291 keyboards whose PCB revision wires Enter, Left Shift and ISO backslash to different LEDs. [Merge request !3732](https://gitlab.com/CalcProgrammer1/OpenRGB/-/merge_requests/3732) · ✅ merged (OpenRGB 1.2)
