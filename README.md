@@ -16,6 +16,7 @@
 | **Nyx Control** | Control center: notifications, clipboard, system gauges, quick toggles, power profiles | [GitHub](https://github.com/OthrineTM/nyx-control) · [KDE Store](https://store.kde.org/p/2378514) |
 | **Nyx Clock** | Customizable desktop clock with weekday, date and weather | [GitHub](https://github.com/OthrineTM/nyx-clock) · [KDE Store](https://store.kde.org/p/2378515) |
 | **Pelta Control** | Linux control app for the ASUS ROG Pelta headset: battery tray, lighting, sidetone, mic, power (reverse-engineered HID protocol) | [GitHub](https://github.com/OthrineTM/pelta-control) |
+| **BS Control** | Linux control app for Flydigi BS2 / BS3 laptop coolers: fan gears, smart speed with temperature curves, RGB lighting, tray (reverse-engineered HID protocol, USB and Bluetooth) | [GitHub](https://github.com/OthrineTM/bs-control) |
 
 ### 🛠️ Open source contributions
 
